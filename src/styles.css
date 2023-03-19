@@ -6,3 +6,17 @@ button {
     border-radius: 4px;
     margin: 10px;
 }
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+input {
+    display: block;
+    margin: 5px
+}
